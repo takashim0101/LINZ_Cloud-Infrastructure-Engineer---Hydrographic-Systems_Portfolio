@@ -126,6 +126,7 @@ in geospatial data science, cloud infrastructure, and AI/ML.
     **Python-based data pipelines**, and **AI/ML for environmental monitoring**. The containerized architecture is highly relevant to building
     **cloud-native, reproducible systems** for hydrographic data processing. This project showcases a strong foundation for modernizing LINZ's
     bathymetric survey data processing.
+*   **GitHub Repository:** [ashburton_flood_sar_analysis](https://github.com/takashim0101/ashburton_flood_sar_analysis)
 
 ### 2. Earthquake Stories Chatbot API
 *   **Overview:** Backend for an empathetic AI chatbot supporting earthquake survivors, processing stories for sentiment/topics, and providing
