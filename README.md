@@ -180,15 +180,12 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 *   **LINZ Relevance:** Directly demonstrates expertise in **geospatial data analysis**, **GIS applications**, and **problem-solving within a time-constrained environment**. This project showcases the ability to work with real-world geospatial challenges, highly relevant to LINZ's mission.
 *   **GitHub Repository:** [GeoNet Spider](https://github.com/takashim0101/Changes-in-the-Building-Landscape-of-Central-Christchurch---The-Geospatial-Hackathon-2021)
 
-###　8. Ocean Project: Sea Surface Temperature Analysis
-*   **Overview:** Analysis and visualization of sea surface temperature (SST) data using Python and
-      Jupyter Notebooks, specifically for the New Zealand region. Helps with monitoring ocean conditions,
-      identifying spatial patterns, analyzing temporal trends, and detecting anomalies.
+### 8. Ocean Project: Sea Surface Temperature Analysis
+*   **Overview:** Analysis and visualization of sea surface temperature (SST) data using Python and Jupyter Notebooks, specifically for the New Zealand region. Helps with monitoring ocean conditions, identifying spatial patterns, analyzing temporal trends, and detecting anomalies.
 *   **Key Technologies:** Python, Jupyter Notebook, NetCDF, Matplotlib, Geopandas.
-*   **LINZ Relevance:** Directly applicable to LINZ's hydrographic and maritime responsibilities,
-      supporting oceanographic monitoring, environmental understanding, and data visualization for sea surface
-      conditions crucial for maritime safety and climate science.
+*   **LINZ Relevance:** Directly applicable to LINZ's hydrographic and maritime responsibilities, supporting oceanographic monitoring, environmental understanding, and data visualization for sea surface conditions crucial for maritime safety and climate science.
 *   **GitHub Repository:** [ocean_project](https://github.com/takashim0101/ocean_project)
+
 ---
 
 ## 📫 Contact
@@ -197,4 +194,5 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 **LinkedIn:** [linkedin.com/in/taka-murachi-265293336](https://www.linkedin.com/in/taka-murachi-265293336/)
 **GitHub Profile:** [github.com/takashim0101](https://github.com/takashim0101?tab=repositories)
 **GitHub Portfolio Repository (NZSE-Portfolio Summary):** [NZSE-Portfolio-TakaMurachi](https://github.com/takashim0101/NZSE-Portfolio-TakaMurachi)
+
 ---
