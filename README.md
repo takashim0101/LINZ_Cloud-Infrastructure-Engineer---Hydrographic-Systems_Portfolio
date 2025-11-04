@@ -1,6 +1,7 @@
 ## 👤 Profile & Career Objective
 
 **Name:** Takashi Murachi
+
 **Location:** Christchurch, New Zealand
 
 To contribute to digital transformation by applying cross-domain technical skills in cloud infrastructure, network security, and hybrid
@@ -12,70 +13,62 @@ solve complex real-world problems, particularly within domains critical to New Z
 
 ---
 
-## 🎓 Education & Ongoing Learning
+## 🎓 Education & Professional Development
 
-**Program:** [NZQA Level 7 Diploma in Applied Networking and Cloud Technology](
-https://nzse.ac.nz/study-options/tech/diploma-in-applied-network-and-cloud-technology-l-7/)
-**Institution:** New Zealand Skills and Education Group (NZSE)
-**Focus Areas:** Cloud Infrastructure, Network Security, Hybrid Architecture, IoT Systems
-**Graduation Year:** Nov 2024
+### Ongoing Learning
 
-- **Postgraduate Diploma of Geospatial Science and Technology**
-  **Institution:** University of Canterbury
-  **Graduation Year:** Nov 2021
-  **Focus Areas:** Geospatial Data Science, Remote Sensing, GIS, Spatial Analysis
+**Diploma in Cloud Computing and Cybersecurity (NZQA Level 6)**
+- **Institution:** Yoobee Colleges
+- **Status:** Enrolled Part-time (Online), September 2025 - Present
+- **Program:** Covers AWS and Azure, Data Engineering, and Cybersecurity. Leads to the NZ Diploma in IT Infrastructure (Systems Administration). [Course Overview](https://www.yoobee.ac.nz/courses/technology/cloud-computing-cybersecurity).
+- **Modules:**
+    - CCC601: Public Cloud Administration (AWS & Azure)
+        - *Includes AWS Academy Cloud Foundations Badge: [View](https://www.credly.com/badges/68d16e7d-a6b6-47a8-aa6d-ed0719b164af)*
+    - CCC602: Data Engineering in the Public Cloud
+    - CCC603: Cybersecurity in the Cloud
+    - CCC604: Multi-Cloud Security & Project Management
 
-- **Yoobee Colleges – Diploma in Cloud Computing and Cybersecurity (NZQA Level 6)**
-  [Course Overview](https://www.yoobee.ac.nz/courses/technology/cloud-computing-cybersecurity)
-  NZQA-recognized qualification leading to the New Zealand Diploma in IT Infrastructure with a strand in Systems Administration. Enrolled since
-  **September 2025**, I am studying **part-time via an online platform**, which allows for flexible, self-paced learning alongside other
-  professional development activities.
-  The program covers both AWS and Azure platforms, with modules including:
-  - CCC601: Public Cloud Administration (AWS & Azure)
-  - CCC602: Data Engineering in the Public Cloud
-  - CCC603: Cybersecurity in the Cloud
-  - CCC604: Multi-Cloud Security & Project Management
+### Completed Programs & Certifications
 
-- **AWS Academy Cloud Foundations Course** (as part of Yoobee Colleges Diploma)
-  Completed via CCC601 module
-  [View badge](https://www.credly.com/badges/68d16e7d-a6b6-47a8-aa6d-ed0719b164af)
-  Covers core AWS services, cloud architecture, billing, security, and best practices.
+**PROFESSIONAL AI-Powered Full Stack Developer**
+- **Provider:** Mission Ready HQ
+- **Completed:** October 30, 2025
+- **Credential:** [View Credential](https://www.credential.net/267aee0c-c027-45c0-b53e-579a71392132#acc.4FxknOtL)
+- **Skills:** Cloud (AWS, Azure, IBM), AI services, Architectural patterns, Agile, DevOps, Design thinking, SQL, APIs.
 
-- **Mission Ready HQ – PROFESSIONAL AI-Powered Full Stack Developer**
-  **Completion Date:** 30 OCT 2025
-  [View Credential](https://www.credential.net/267aee0c-c027-45c0-b53e-579a71392132#acc.4FxknOtL)
-  **Focus Areas:** Artificial Intelligence, Machine Learning, Full Stack Development, AI/ML Project Development.
+**AI Hackathon 2025 Finalist**
+- **Provider:** Mission Ready HQ x AI Forum
+- **Completed:** August 23, 2025
+- **Credential:** [View Credential](https://www.credential.net/47504d69-df95-47d6-9806-e0083d235539#acc.eTboAKcr)
+- **Focus:** Artificial Intelligence, Problem Solving, Innovation.
 
-- **Mission Ready HQ – AI-Powered Advanced Full Stack Developer**
-  **Completion Date:** 6 AUG 2025
-  [View Credential](https://www.credential.net/ae1f711c-5617-4cfb-bd56-a6f56a8f4f9a#acc.vSaU7QXj)
-  **Focus Areas:** Artificial Intelligence, Machine Learning, Advanced Full Stack Development, AI/ML Project Development.
+**AI-Powered Advanced Full Stack Developer**
+- **Provider:** Mission Ready HQ
+- **Completed:** August 6, 2025
+- **Credential:** [View Credential](https://www.credential.net/ae1f711c-5617-4cfb-bd56-a6f56a8f4f9a#acc.vSaU7QXj)
+- **Skills:** Generative AI, Cloud (AWS, Azure, GCP), AI services, Agile, DevOps, Design thinking, SQL, APIs.
 
-- **AI Hackathon 2025 Finalist**
-  **Completion Date:** 23 AUG 2025
-  [View Credential](https://www.credential.net/47504d69-df95-47d6-9806-e0083d235539#acc.eTboAKcr)
-  **Focus Areas:** Artificial Intelligence, Problem Solving, Innovation (Mission Ready x AI Forum).
+**Full Stack Developer**
+- **Provider:** Mission Ready HQ
+- **Completed:** May 14, 2025
+- **Skills:** Responsive web apps, Server-side development, Coding frameworks, Security best practices, Databases, Unit testing.
 
-- **Tech Career Launch Pad**
-  **Completion Date:** 28 FEB 2025
-  [View Credential](https://www.credential.net/33f70b16-bc70-44f0-92d9-f53e553fe8c3#acc.NIPt4gR2)
-  **Learning Outcomes:** Describe the main categories of employment that are available within New Zealand’s information technology industry; Identify the attitudes, skills, and behaviours acquired by junior professionals in employment in different career pathways within New Zealand’s information technology industry; Select one or more tech career pathway(s) that best aligns with their own capabilities and interests; Develop a professional development plan to maximise their potential for employment in one of their preferred tech career pathway(s).
+**Tech Career Launch Pad**
+- **Provider:** Mission Ready HQ
+- **Completed:** February 28, 2025
+- **Credential:** [View Credential](https://www.credential.net/33f70b16-bc70-44f0-92d9-f53e553fe8c3#acc.NIPt4gR2)
+- **Outcomes:** Career planning and professional development for the NZ tech industry.
 
-- **PROFESSIONAL AI-Powered Full Stack Developer**
-  **Completion Date:** 30 OCT 2025
-  **Applied Skills:** Cloud services (AWS, Azure and IBM Cloud), Artificial intelligence services, Architectural patterns, Agile mindset and practices, DevOps and automated deployment, Design thinking, SQL and databases, JSON and API, Source control, Unit testing.
+**NZQA Level 7 Diploma in Applied Networking and Cloud Technology**
+- **Institution:** New Zealand Skills and Education Group (NZSE)
+- **Graduation:** November 2024
+- **Focus:** Cloud Infrastructure, Network Security, Hybrid Architecture, IoT Systems.
+- **Link:** [Program Details](https://nzse.ac.nz/study-options/tech/diploma-in-applied-network-and-cloud-technology-l-7/)
 
-- **AI-Powered Advanced Full Stack Developer**
-  **Completion Date:** 6 August 2025
-  **Applied Skills:** Applying generative AI tools to streamline development and enhance app functionality, Cloud services (AWS, Azure and GCP Cloud), Artificial intelligence services, Architectural patterns, Agile mindset and practices, DevOps and automated deployment, Design thinking, SQL and databases, JSON and API, Source control, Unit testing.
-
-- **Full Stack Developer**
-  **Completion Date:** 14 May 2025
-  **Applied Skills:** Create responsive web applications, Develop server-side software, Use professional coding frameworks and libraries, Security best practices, Database development, Perform unit testing, Use of IDE and source code management tools, Coding best practices, Understand software licenses.
-
-- **Full Stack Developer**
-  **Completion Date:** 14 May 2025
-  **Applied Skills:** Create responsive web applications, Develop server-side software, Use professional coding frameworks and libraries, Security best practices, Database development, Perform unit testing, Use of IDE and source code management tools, Coding best practices, Understand software licenses.
+**Postgraduate Diploma of Geospatial Science and Technology**
+- **Institution:** University of Canterbury
+- **Graduation:** November 2021
+- **Focus:** Geospatial Data Science, Remote Sensing, GIS, Spatial Analysis.
 
 ---
 
