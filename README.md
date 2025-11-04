@@ -8,7 +8,7 @@ architecture. I am proficient in Microsoft Azure and actively expanding my AWS e
 contributing to robust, scalable solutions. My passion lies in leveraging geospatial data science, AI/ML, and cloud-native architectures to
 solve complex real-world problems, particularly within domains critical to New Zealand's infrastructure and environment.
 
-**LINZ Relevance:** My skills and project experience are directly applicable to LINZ's mission of managing New Zealand's land and sea information. I am particularly keen to contribute to initiatives involving geospatial data processing, AI/ML for environmental monitoring, and the development of robust, scalable cloud-native solutions for critical national infrastructure. Furthermore, my experience leading teams and providing technical support in Agile projects, such as during my Mission Ready internship, demonstrates my ability to drive outcomes and collaborate effectively in dynamic environments.
+**LINZ Relevance:** My skills and project experience are directly applicable to LINZ's mission of managing New Zealand's land and sea information. I am particularly keen to contribute to initiatives involving geospatial data processing, AI/ML for environmental monitoring, and the development of robust, scalable cloud-native solutions for critical national infrastructure. Furthermore, my experience leading teams and providing technical support in Agile projects, such as during my Mission Ready study at Level 5, demonstrates my ability to drive outcomes and collaborate effectively in dynamic environments.
 
 ---
 
@@ -185,6 +185,8 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 *   **Key Technologies:** Python, Jupyter Notebook, NetCDF, Matplotlib, Geopandas.
 *   **LINZ Relevance:** Directly applicable to LINZ's hydrographic and maritime responsibilities, supporting oceanographic monitoring, environmental understanding, and data visualization for sea surface conditions crucial for maritime safety and climate science.
 *   **GitHub Repository:** [ocean_project](https://github.com/takashim0101/ocean_project)
+
+
 
 ---
 
