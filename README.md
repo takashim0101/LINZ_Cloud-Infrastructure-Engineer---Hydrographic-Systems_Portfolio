@@ -113,11 +113,11 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 
 ### 1. Ashburton Flood SAR Analysis
 *   **Overview:** An end-to-end pipeline for detecting flood-affected areas using Sentinel-1 SAR imagery, combining geospatial preprocessing,
-    deep learning (U-Net), and a containerized architecture.
+    deep learning (U-Net), and a containerised architecture.
 *   **Key Technologies:** Python, Docker, PostGIS, Rasterio, GDAL, Keras/TensorFlow (U-Net), Sentinel-1 SAR.
 *   **LINZ Relevance:** Directly demonstrates expertise in **geospatial data processing (SAR imagery)**, **PostGIS for raster data management**,
-    **Python-based data pipelines**, and **AI/ML for environmental monitoring**. The containerized architecture is highly relevant to building
-    **cloud-native, reproducible systems** for hydrographic data processing. This project showcases a strong foundation for modernizing LINZ's
+    **Python-based data pipelines**, and **AI/ML for environmental monitoring**. The containerised architecture is highly relevant to building
+    **cloud-native, reproducible systems** for hydrographic data processing. This project showcases a strong foundation for modernising LINZ's
     bathymetric survey data processing.
 *   **GitHub Repository:** [Ashburton Flood Aar Analysis](https://github.com/takashim0101/ashburton_flood_sar_analysis)
 
@@ -128,7 +128,7 @@ in geospatial data science, cloud infrastructure, and AI/ML.
     data.
 *   **LINZ Relevance:** Highlights strong skills in **hybrid microservice architecture**, **containerization**, **geospatial data integration
     (geocoding)**, **real-time data processing**, **AI/ML (LLM, RAG)**, and **DevOps principles**. This project demonstrates the ability to build
-    complex, scalable, and user-centric cloud-native applications, directly applicable to modernizing LINZ's systems and integrating advanced
+    complex, scalable, and user-centric cloud-native applications, directly applicable to modernising LINZ's systems and integrating advanced
     technologies.
 *   **GitHub Repository:** [Earthquake Stories Chatbot API](https://github.com/takashim0101/earthquake-stories-chatbot)
 
@@ -142,7 +142,7 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 *   **GitHub Repository:** [Pasture Monitoring Project](https://github.com/takashim0101/Sentinel-2-Pasture-Monitor)
 
 ### 4. NZ Population 250m Grid Analysis
-*   **Overview:** Analyzes New Zealand's population data on a 250m grid, generating various maps and reports, including LLM-assisted policy
+*   **Overview:** Analyses New Zealand's population data on a 250m grid, generating various maps and reports, including LLM-assisted policy
     suggestions. Features an ETL pipeline for data acquisition, preprocessing, and geospatial analysis.
 *   **Key Technologies:** Python, geopandas, pyproj, ArcGIS FeatureServer API, Ollama (LLM), fpdf (PDF generation), OpenStreetMap Nominatim API.
 *   **LINZ Relevance:** Demonstrates strong capabilities in **geospatial data engineering (grid data)**, **ETL pipeline construction**, **Python
@@ -151,16 +151,16 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 *   **GitHub Repository:** [NZ Population 250m Grid Analysis](https://github.com/takashim0101/nz_population_250_grid_LLM)
 
 ### 5. WRF–ERA5 Validation & Climate Analysis
-*   **Overview:** A complete climate data analysis pipeline covering data acquisition, processing, and visualization of ERA5 reanalysis data for
-    regional climate patterns in Canterbury, NZ. Includes advanced pattern analysis using Self-Organizing Maps (SOM).
-*   **Key Technologies:** Python, NetCDF, Matplotlib, Cartopy, CDS API, Self-Organizing Maps (SOM).
+*   **Overview:** A complete climate data analysis pipeline covering data acquisition, processing, and visualisation of ERA5 reanalysis data for
+    regional climate patterns in Canterbury, NZ. Includes advanced pattern analysis using Self-Organising Maps (SOM).
+*   **Key Technologies:** Python, NetCDF, Matplotlib, Cartopy, CDS API, Self-Organising Maps (SOM).
 *   **LINZ Relevance:** Reinforces expertise in **data engineering for scientific datasets (NetCDF)**, **geospatial data analysis and
     visualization (Cartopy)**, and **advanced analytical techniques (SOM)**. This project showcases the ability to handle large-scale environmental
     data, which is relevant to LINZ's broader understanding of New Zealand's natural environment.
 *   **GitHub Repository:** [WRF–ERA5 Validation & Climate Analysis](https://github.com/takashim0101/ERA5-Climate-Analysis-Pipeline)
 
 ### 6. Multiple Linear Regression on Dairy Cow Health Data
-*   **Overview:** Applies multiple linear regression to identify key factors associated with average individual somatic cell count (ISCC) in
+*   **Overview:** Applies multiple linear regression to identify key factors associated with the average individual somatic cell count (ISCC) in
     dairy cows, providing actionable insights for farm management.
 *   **Key Technologies:** R, Multiple Linear Regression, Stepwise Selection, Data Transformation, ggplot2.
 *   **LINZ Relevance:** While the domain is different, this project demonstrates strong **analytical thinking**, **statistical modeling**, and
@@ -169,12 +169,12 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 
 ### 7. Geospatial Hackathon 2021: Changes in the Building Landscape of Central Christchurch
 *   **Overview:** Analysis of changes in the building landscape of Central Christchurch using geospatial data, developed during the Geospatial Hackathon 2021.
-*   **Key Technologies:** Geospatial data, GIS tools, Data Analysis.
+*   **Key Technologies:** Geospatial data, GIS tools, and Data Analysis.
 *   **LINZ Relevance:** Directly demonstrates expertise in **geospatial data analysis**, **GIS applications**, and **problem-solving within a time-constrained environment**. This project showcases the ability to work with real-world geospatial challenges, highly relevant to LINZ's mission.
 *   **GitHub Repository:** [GeoNet Spider](https://github.com/takashim0101/Changes-in-the-Building-Landscape-of-Central-Christchurch---The-Geospatial-Hackathon-2021)
 
 ### 8. Ocean Project: Sea Surface Temperature Analysis
-*   **Overview:** Analysis and visualization of sea surface temperature (SST) data using Python and Jupyter Notebooks, specifically for the New Zealand region. Helps with monitoring ocean conditions, identifying spatial patterns, analyzing temporal trends, and detecting anomalies.
+*   **Overview:** Analysis and visualisation of sea surface temperature (SST) data using Python and Jupyter Notebooks, specifically for the New Zealand region. Helps with monitoring ocean conditions, identifying spatial patterns, analyzing temporal trends, and detecting anomalies.
 *   **Key Technologies:** Python, Jupyter Notebook, NetCDF, Matplotlib, Geopandas.
 *   **LINZ Relevance:** Directly applicable to LINZ's hydrographic and maritime responsibilities, supporting oceanographic monitoring, environmental understanding, and data visualization for sea surface conditions crucial for maritime safety and climate science.
 *   **GitHub Repository:** [ocean_project](https://github.com/takashim0101/ocean_project)
