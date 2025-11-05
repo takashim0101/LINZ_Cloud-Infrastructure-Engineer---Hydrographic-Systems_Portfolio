@@ -4,10 +4,10 @@
 
 **Location:** Christchurch, New Zealand
 
-To contribute to digital transformation by applying cross-domain technical skills in cloud infrastructure, network security, and hybrid
-architecture. I am proficient in Microsoft Azure and actively expanding my AWS expertise, preparing for multi-cloud environments and
-contributing to robust, scalable solutions. My passion lies in leveraging geospatial data science, AI/ML, and cloud-native architectures to
-solve complex real-world problems, particularly within domains critical to New Zealand's infrastructure and environment.
+To contribute to digital transformation by applying cross-domain technical skills in cloud infrastructure, network security, and hybrid architecture. I am proficient in Microsoft Azure and actively expanding my AWS expertise, preparing for multi-cloud environments and contributing to robust, scalable solutions. My passion lies in leveraging geospatial data science, AI/ML, and cloud-native architectures to solve complex real-world problems, particularly within domains critical to New Zealand's infrastructure and environment.
+
+I’ve had the opportunity to lead cross-functional teams for six years in Japan’s automotive manufacturing sector, coordinating technical deliverables and supporting collaborative outcomes. While this work was not directly related to GIS, it strengthened my ability to manage quality, translate operational needs into technical solutions, and work respectfully across diverse teams—skills I aim to apply in service of New Zealand’s public data systems and geospatial transformation.
+
 
 **LINZ Relevance:** My skills and project experience are directly applicable to LINZ's mission of managing New Zealand's land and sea information. I am particularly keen to contribute to initiatives involving geospatial data processing, AI/ML for environmental monitoring, and the development of robust, scalable cloud-native solutions for critical national infrastructure. Furthermore, my experience leading teams and providing technical support in Agile projects, such as during my Mission Ready study at Level 5, demonstrates my ability to drive outcomes and collaborate effectively in dynamic environments.
 
