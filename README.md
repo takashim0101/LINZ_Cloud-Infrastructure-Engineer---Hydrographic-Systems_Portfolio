@@ -31,6 +31,18 @@ I’ve had the opportunity to lead cross-functional teams for six years in Japan
 ### Completed Programs & Certifications
 
 **PROFESSIONAL AI-Powered Full Stack Developer**
+
+**New Zealand Diploma in Web Development and Design (NZQA Level 5)**
+- **Provider:** Mission Ready HQ
+- **Completed:** November 2025
+- **Credential:** [View Credential](https://www.credential.net/cd4edfaa-2b8f-4e2e-ba44-8cdf216dd245#acc.0rADpuwJ)
+
+**AWS Academy Graduate - Cloud Foundations**
+- **Provider:** Amazon Web Services (AWS)
+- **Completed:** October 2025
+- **Credential:** [View Credential](https://www.credly.com/badges/68d16e7d-a6b6-47a8-aa6d-ed0719b164af)
+
+**PROFESSIONAL AI-Powered Full Stack Developer**
 - **Provider:** Mission Ready HQ
 - **Completed:** October 30, 2025
 - **Credential:** [View Credential](https://www.credential.net/267aee0c-c027-45c0-b53e-579a71392132#acc.4FxknOtL)
@@ -51,6 +63,7 @@ I’ve had the opportunity to lead cross-functional teams for six years in Japan
 **Full Stack Developer**
 - **Provider:** Mission Ready HQ
 - **Completed:** May 14, 2025
+- **Credential:** [View Credential](https://www.credential.net/67786934-2d70-4b4a-9b5e-b80f651c57fc#acc.AL1lwjHg)
 - **Skills:** Responsive web apps, Server-side development, Coding frameworks, Security best practices, Databases, Unit testing.
 
 **Tech Career Launch Pad**
@@ -68,7 +81,7 @@ I’ve had the opportunity to lead cross-functional teams for six years in Japan
 **Postgraduate Diploma of Geospatial Science and Technology**
 - **Institution:** University of Canterbury
 - **Graduation:** November 2021
-- **Focus:** Geospatial Data Science, Remote Sensing, GIS, Spatial Analysis.
+- **Focus:** Spatial Data Science, Remote Sensing, GIS, Computer Vision, Foundation of Deep Learning, Spatial Analysis.
 
 ---
 
