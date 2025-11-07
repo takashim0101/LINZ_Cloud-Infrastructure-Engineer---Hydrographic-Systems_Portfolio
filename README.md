@@ -192,6 +192,11 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 *   **LINZ Relevance:** Directly applicable to LINZ's hydrographic and maritime responsibilities, supporting oceanographic monitoring, environmental understanding, and data visualization for sea surface conditions crucial for maritime safety and climate science.
 *   **GitHub Repository:** [ocean_project](https://github.com/takashim0101/ocean_project)
 
+### 9. IoT Cloud-Based System with Raspberry Pi 5 and Sense HAT
+*   **Overview:** Developed a robust IoT system for environmental sensor data collection, transmission, and visualization using Raspberry Pi 5, Sense HAT, MQTT, and cloud PaaS (EMQX, Adafruit IO). Demonstrates core principles of cloud integration, data management, and automation.
+*   **Key Technologies:** Python, Raspberry Pi 5, Sense HAT, MQTT, EMQX, Adafruit IO, `matplotlib`.
+*   **LINZ Relevance:** Showcases strong skills in **cloud platform integration**, **data pipeline design**, **infrastructure automation (Python)**, **data visualization**, and **security fundamentals**. Directly transferable to building scalable, secure, and efficient systems within LINZ's AWS environment, with a clear vision for leveraging AWS IoT Core, RDS PostgreSQL, Fargate, and IaC.
+*   **GitHub Repository:** [IoT Cloud-Based System with Raspberry Pi 5 and Sense HAT](https://github.com/takashim0101/rpi5-iot-sensehat-cloud-system)
 
 
 ---
