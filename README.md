@@ -205,7 +205,7 @@ in geospatial data science, cloud infrastructure, and AI/ML.
 
 **Email:** taka.kroger@gmail.com
 **LinkedIn:** [linkedin.com/in/taka-murachi-265293336](https://www.linkedin.com/in/taka-murachi-265293336/)
-**GitHub Profile:** [github.com/takashim0101](https://github.com/takashim0101?tab=repositories)
+**GitHub Profile:** [github.com/takashim0101](https://github.com/takashim0101)
 **GitHub Portfolio Repository (NZSE-Portfolio Summary):** [NZSE-Portfolio-TakaMurachi](https://github.com/takashim0101/NZSE-Portfolio-TakaMurachi)
 
 ---
